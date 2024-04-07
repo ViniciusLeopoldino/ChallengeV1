@@ -1,0 +1,37 @@
+#menu {
+    border-top-right-radius: 30px;
+    background-color: #30C5FF;
+    color: #fff;
+    width: 200px;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    padding-top: 50px;
+}
+
+
+#menu ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+#menu ul li {
+    padding: 10px 20px;
+    border-bottom: 1px solid #fff;
+    cursor: pointer;
+}
+
+#menu ul li:hover {
+    background-color: #1E90FF;
+}
+
+.conteudo {
+    margin-left: 200px;
+    padding: 20px;
+}
+iframe {
+    height: 300px;
+    width: 300px;
+}
