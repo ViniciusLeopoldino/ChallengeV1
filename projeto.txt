@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-teste 33
-=======
-testes
->>>>>>> branch2
